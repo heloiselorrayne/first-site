@@ -221,6 +221,8 @@ footer a {
 	}
 
 	/*fotos*/
+	
+	/*alinhar as fotos, porém não está indo :( - procurar o erro*/
 
 	#foto{
 		flex-direction: row;
